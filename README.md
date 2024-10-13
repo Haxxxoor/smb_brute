@@ -1,1 +1,1 @@
-smb_brute_force.py <IP> <username> <wordfile>
+smb_brute.py IP username wordfile
